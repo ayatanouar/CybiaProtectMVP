@@ -38,6 +38,9 @@ __pypackages__/
 .env
 .env.local
 
+packages/backend/.test.env
+packages/backend/.env.shared
+
 # System Files
 .DS_Store
 Thumbs.db
