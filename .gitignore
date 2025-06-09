@@ -41,6 +41,8 @@ __pypackages__/
 packages/backend/.test.env
 packages/backend/.env.shared
 
+ssh_key
+ssh_key.pub
 # System Files
 .DS_Store
 Thumbs.db
